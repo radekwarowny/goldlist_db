@@ -2,12 +2,6 @@
 
 GoldList is a simple CLI application designed to help learning a foreign language.
 
-## Installation
-
-```bash
-pip install pandas
-```
-
 ## Usage
 
 ```bash
